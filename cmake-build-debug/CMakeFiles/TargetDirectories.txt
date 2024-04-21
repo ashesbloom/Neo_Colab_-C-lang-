@@ -1,3 +1,0 @@
-D:/git/My stack/Neo_Colab_C_lang/cmake-build-debug/CMakeFiles/Neo_Colab_C_lang.dir
-D:/git/My stack/Neo_Colab_C_lang/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/git/My stack/Neo_Colab_C_lang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
