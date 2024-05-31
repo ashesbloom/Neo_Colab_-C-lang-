@@ -1,5 +1,6 @@
 /*
  Problem Statement
+
     Joice is eager to create a program to compute the water tax using the ternary operator.
     The program should take the consumed water units as input and apply the following rates:
     The water tax slab is as follows:
